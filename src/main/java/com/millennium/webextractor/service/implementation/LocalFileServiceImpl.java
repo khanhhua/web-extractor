@@ -2,7 +2,6 @@ package com.millennium.webextractor.service.implementation;
 
 import com.millennium.webextractor.model.File;
 import com.millennium.webextractor.service.StorageService;
-import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
 
 import java.io.IOException;
